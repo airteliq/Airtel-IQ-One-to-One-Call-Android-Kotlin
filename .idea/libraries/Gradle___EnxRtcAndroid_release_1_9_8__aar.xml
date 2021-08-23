@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :EnxRtcAndroid-release_1.9.8:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f2c39abb42b55ae8a6712f149bf743e/EnxRtcAndroid-release_1.9.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f2c39abb42b55ae8a6712f149bf743e/EnxRtcAndroid-release_1.9.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f2c39abb42b55ae8a6712f149bf743e/EnxRtcAndroid-release_1.9.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
