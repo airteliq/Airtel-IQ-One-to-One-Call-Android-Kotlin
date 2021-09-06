@@ -15,10 +15,10 @@ import android.widget.*
 import com.enablex.demoenablex.R
 import com.enablex.demoenablex.utilities.OnDragTouchListener
 import com.google.gson.Gson
-import enx_rtc_android.Controller.*
 import org.json.JSONArray
 import org.json.JSONException
 import org.json.JSONObject
+import videoiq_android.Controller.*
 import java.util.*
 
 

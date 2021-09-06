@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :VideoIQAndroid-release_1.0.0:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14721747f905f2948794494b0642820e/VideoIQAndroid-release_1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14721747f905f2948794494b0642820e/VideoIQAndroid-release_1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/14721747f905f2948794494b0642820e/VideoIQAndroid-release_1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
