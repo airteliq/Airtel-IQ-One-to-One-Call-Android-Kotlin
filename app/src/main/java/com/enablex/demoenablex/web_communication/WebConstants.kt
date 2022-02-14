@@ -5,7 +5,7 @@ object WebConstants {
     /* To try the app with AirtelIQ hosted service you need to set the kTry = true */
             val   kTry = true;
     /*Your webservice host URL, Keet the defined host when kTry = true */
-        val kBaseURL = "https://api.videoiq.airtel.in/"
+        val kBaseURL = "https://demo.videoiq.airtel.in/"
 
     /*The following information required, Only when kTry = true, When you hosted your own webservice remove these fileds*/
 
